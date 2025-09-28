@@ -8,7 +8,7 @@ Supports Windows, Linux, and Android (Termux).
 - Automatic retry on failed downloads.
 - Progress bar with percentage.
 - Supports `mkv`, `mp4`, `mp3`, or any direct file link.
-- Saves files to your chosen folder (e.g., `D:\manyDownloads`).
+- Saves files to your chosen folder (e.g., `manyDownloads`).
 
 ## 📦 Installation
 1. Install Python (3.7+ recommended)  
